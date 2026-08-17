@@ -1,0 +1,9 @@
+# cached dataset (downloaded by the notebook on first run)
+day.csv
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
