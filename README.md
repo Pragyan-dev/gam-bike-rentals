@@ -13,7 +13,6 @@ one-curve-per-feature model you can explain to somebody.
 ## Quickstart
 
 ```bash
-git clone https://github.com/<you>/gam-bike-rentals.git
 cd gam-bike-rentals
 pip install -r requirements.txt
 jupyter lab gam_bike_rentals.ipynb     # or: jupyter notebook
